@@ -4,6 +4,7 @@ const path = require("path");
 const Dotenv = require("dotenv-webpack");
 
 module.exports = {
+  target: "serverless",
   webpack: config => {
     config.plugins = config.plugins || [];
 
@@ -18,10 +19,7 @@ module.exports = {
     ];
 
     return config;
-  }
-};
-
-module.exports = {
+  },
   publicRuntimeConfig: {
     API_KEY: process.env.API_KEY,
     AUTH_DOMAIN: process.env.AUTH_DOMAIN,
