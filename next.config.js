@@ -1,26 +1,15 @@
-require("dotenv").config();
-
-const path = require("path");
-const Dotenv = require("dotenv-webpack");
+require("now-env");
 
 module.exports = {
   target: "serverless",
   webpack: config => {
     config.plugins = config.plugins || [];
 
-    config.plugins = [
-      ...config.plugins,
-
-      // Read the .env file
-      new Dotenv({
-        path: path.join(__dirname, ".env"),
-        systemvars: true
-      })
-    ];
+    config.plugins = [...config.plugins];
 
     return config;
   },
-  publicRuntimeConfig: {
+  env: {
     API_KEY: process.env.API_KEY,
     AUTH_DOMAIN: process.env.AUTH_DOMAIN,
     DATABASE_URL: process.env.DATABASE_URL,

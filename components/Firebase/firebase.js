@@ -1,17 +1,14 @@
 import firebase from "firebase/app";
 import "firebase/auth";
 import "firebase/database";
-import getConfig from "next/config";
-
-const { publicRuntimeConfig } = getConfig();
 
 const config = {
-  apiKey: publicRuntimeConfig.API_KEY,
-  authDomain: publicRuntimeConfig.AUTH_DOMAIN,
-  databaseURL: publicRuntimeConfig.DATABASE_URL,
-  projectId: publicRuntimeConfig.PROJECT_ID,
-  storageBucket: publicRuntimeConfig.STORAGE_BUCKET,
-  messagingSenderId: publicRuntimeConfig.MESSAGING_SENDER_ID
+  apiKey: process.env.API_KEY,
+  authDomain: process.env.AUTH_DOMAIN,
+  databaseURL: process.env.DATABASE_URL,
+  projectId: process.env.PROJECT_ID,
+  storageBucket: process.env.STORAGE_BUCKET,
+  messagingSenderId: process.env.MESSAGING_SENDER_ID
 };
 
 class Firebase {
