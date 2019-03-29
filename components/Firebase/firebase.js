@@ -1,6 +1,6 @@
 import firebase from "firebase/app";
 import "firebase/auth";
-import "firebase/database";
+import "firebase/firestore";
 
 const config = {
   apiKey: process.env.API_KEY,
@@ -17,7 +17,7 @@ class Firebase {
       firebase.initializeApp(config);
     }
     this.auth = firebase.auth();
-    this.db = firebase.database();
+    this.db = firebase.firestore();
   }
 
   createUser = (email, password) =>
@@ -32,9 +32,9 @@ class Firebase {
 
   updatePassword = password => this.auth.currentUser.updatePassword(password);
 
-  user = uid => this.db.ref(`users/${uid}`);
+  user = uid => this.db.collection("users").doc(uid);
 
-  users = () => this.db.ref("users");
+  users = () => this.db.collection("users");
 }
 
 export default Firebase;

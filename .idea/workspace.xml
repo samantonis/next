@@ -18,22 +18,22 @@
       <change afterPath="$PROJECT_DIR$/.next/server/static/development/pages/_error.js.map" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.next/server/static/development/pages/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.next/server/static/development/pages/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/server/static/development/pages/login.js.map" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.next/static/chunks/0.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.next/static/chunks/0.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.next/static/development/dll/dll_f1e0f678a3d57bf02d93.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.next/static/development/pages/_app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.next/static/development/pages/_app.js.map" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.next/static/development/pages/_error.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.next/static/development/pages/_error.js.map" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.next/static/development/pages/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.next/static/development/pages/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/development/pages/login.js.map" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.next/static/runtime/main.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.next/static/runtime/main.js.map" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.next/static/runtime/webpack.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.next/static/runtime/webpack.js.map" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.nowignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/components/Firebase/context.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Firebase/firebase.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/components/Firebase/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/components/Header/Header.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/components/Login/LoginForm.js" afterDir="false" />
@@ -75,26 +75,32 @@
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/which" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/window-size" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.cache/autodll-webpack-plugin/development_instance_0_0431dd17f3830f6f3c3d56f524c79bf9/dll.manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/autodll-webpack-plugin/development_instance_0_0431dd17f3830f6f3c3d56f524c79bf9/dll_f1e0f678a3d57bf02d93.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.cache/autodll-webpack-plugin/development_instance_0_0431dd17f3830f6f3c3d56f524c79bf9/stats.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.cache/autodll-webpack-plugin/package.json.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0414c33430caad85780a69bbeaf8690e.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0fc5049b39d395b67c63c0c6cd8a412c.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/103a76fe70e518a4a85a16c4db71ccb3.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1308d3f55625e9dfc915269d8920b8a4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1a2e99242bf5acca43d4e520ef77ec32.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1edd1baf7ca57e2357c41282ad2c7c48.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/28c4d04330d37cbe8dd8d1084d8dc2d7.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2e6af70f4c834dcb89ee7636916111a1.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2f31d24f8aff2ab2120f43298b9bb7d9.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/35920bb0f41fe6a44ac27ae15bd9cb0a.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/38b5e125b6cab3a838056d50276336a8.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3f3da763532908aa693eb344557ebee6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/50e842ee1a14130eb75625bfc9de44f3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/53351c18c8fae176c9a227dce41a0ea5.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/550ebeb7ab735a901dffa93d1a32198e.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5d8249d41916f32686fe4ec10fe9a5fe.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6db048d12af7d784f5de76a19695fb70.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6fd0602ad331c39dc93936c3a861181c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7a1bbf2b6ab0e0d7bb9f174e48cbf709.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9a373d8332a94ec7d52d0607750b5468.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/af2240e32c8fca5b34762ff4defb2945.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b540ff0bc188f45f9b89e557652211e1.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c1de5f8ac06f1501124b705ddcb9f83c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c6adaa084543f8e49bed6300dc151c4e.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d9ce5ce14d095374fb5129de5adbe79b.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ddffd4fd2d44ff030885ed4d3bdc79d4.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e71dbd8549e4d411ca1c2bdd9f65d073.json" afterDir="false" />
@@ -1142,7 +1148,6 @@
       <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/scripts/generators/generateValidators.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/scripts/generators/typescript.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/scripts/utils/formatBuilderName.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/scripts/utils/formatCode.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/scripts/utils/lowerFirst.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/scripts/utils/stringifyValidator.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/@babel/types/scripts/utils/toFunctionName.js" afterDir="false" />
@@ -2976,13 +2981,6 @@
       <change afterPath="$PROJECT_DIR$/node_modules/cacache/locales/es.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/cacache/locales/es.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/cacache/ls.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/cacache/node_modules/glob/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/cacache/node_modules/glob/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/cacache/node_modules/glob/changelog.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/cacache/node_modules/glob/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/cacache/node_modules/glob/glob.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/cacache/node_modules/glob/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/cacache/node_modules/glob/sync.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/cacache/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/cacache/put.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/cacache/rm.js" afterDir="false" />
@@ -12362,13 +12360,6 @@
       <change afterPath="$PROJECT_DIR$/node_modules/rimraf/LICENSE" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/rimraf/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/rimraf/bin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/rimraf/node_modules/glob/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/rimraf/node_modules/glob/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/rimraf/node_modules/glob/changelog.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/rimraf/node_modules/glob/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/rimraf/node_modules/glob/glob.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/rimraf/node_modules/glob/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/rimraf/node_modules/glob/sync.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/rimraf/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/rimraf/rimraf.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/ripemd160/CHANGELOG.md" afterDir="false" />
@@ -12786,9 +12777,6 @@
       <change afterPath="$PROJECT_DIR$/node_modules/strip-bom/license" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/strip-bom/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/strip-bom/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/styled-components/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/styled-components/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/styled-components/CONTRIBUTING.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/styled-components/LICENSE" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/styled-components/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/styled-components/dist/styled-components-macro.cjs.js" afterDir="false" />
@@ -13851,7 +13839,6 @@
       <change afterPath="$PROJECT_DIR$/node_modules/xtend/mutable.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/xtend/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/xtend/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/y18n/CHANGELOG.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/y18n/LICENSE" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/y18n/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/y18n/index.js" afterDir="false" />
@@ -13885,10 +13872,6 @@
       <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/pt_BR.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/tr.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/zh.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/yargs/node_modules/y18n/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/yargs/node_modules/y18n/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/yargs/node_modules/y18n/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/yargs/node_modules/y18n/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/yargs/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/now.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
@@ -13910,15 +13893,14 @@
       <change afterPath="$PROJECT_DIR$/../strapi-starter/frontend/lib/auth.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.firebaserc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nowignore" beforeDir="false" afterPath="$PROJECT_DIR$/.nowignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Firebase/firebase.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Firebase/firebase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Navigation/Navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Navigation/Navigation.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database.rules.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/firebase.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/now.json" beforeDir="false" afterPath="$PROJECT_DIR$/now.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
@@ -13956,10 +13938,11 @@
           <entry key="css" value="3" />
           <entry key="env" value="3" />
           <entry key="gitignore" value="1" />
-          <entry key="js" value="80" />
-          <entry key="json" value="10" />
-          <entry key="nowignore" value="2" />
+          <entry key="js" value="96" />
+          <entry key="json" value="14" />
+          <entry key="nowignore" value="3" />
           <entry key="png" value="2" />
+          <entry key="ts" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -13968,17 +13951,18 @@
           <entry key="CSS" value="3" />
           <entry key="Git file" value="1" />
           <entry key="Image" value="2" />
-          <entry key="JSON" value="10" />
-          <entry key="JavaScript" value="80" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="JSON" value="14" />
+          <entry key="JavaScript" value="96" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="TypeScript" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="env" value="3" />
           <entry key="gitignore" value="36" />
-          <entry key="js" value="1720" />
-          <entry key="json" value="87" />
+          <entry key="js" value="1831" />
+          <entry key="json" value="169" />
           <entry key="nowignore" value="5" />
         </counts>
       </usages-collector>
@@ -13986,8 +13970,8 @@
         <counts>
           <entry key=".env file" value="3" />
           <entry key="Git file" value="36" />
-          <entry key="JSON" value="87" />
-          <entry key="JavaScript" value="1717" />
+          <entry key="JSON" value="169" />
+          <entry key="JavaScript" value="1828" />
           <entry key="Less" value="3" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
@@ -13995,6 +13979,7 @@
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
           <entry key="PrettierLanguageServiceImpl" value="1" />
+          <entry key="TypeScriptServerServiceImpl" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -14007,90 +13992,90 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/now.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/components/Firebase/firebase.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            <state relative-caret-position="585">
+              <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package-lock.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-426">
-              <caret line="950" column="14" selection-start-line="950" selection-start-column="6" selection-end-line="950" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/@firebase/database/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
-              <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/@firebase/database/dist/index.node.cjs.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-191">
-              <caret line="12018" column="19" selection-start-line="12018" selection-start-column="12" selection-end-line="12018" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/next.config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/Firebase/context.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/Firebase/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/.next/react-loadable-manifest.json">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/account.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/admin.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/signup.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/Session/context.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="24" selection-start-column="24" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/SignOut/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/SignUp/SignUpForm.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/Navigation/Navigation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="65" column="23" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -14117,7 +14102,10 @@
       <find>publicRuntimeConfig</find>
       <find>env..</find>
       <find>firebase</find>
+      <find>readableIdentifier</find>
       <find>request</find>
+      <find>database</find>
+      <find>firebase.u</find>
     </findStrings>
     <replaceStrings>
       <replace>Login</replace>
@@ -14155,17 +14143,17 @@
         <option value="$PROJECT_DIR$/pages/account.js" />
         <option value="$PROJECT_DIR$/components/SignUp/SignUpForm.js" />
         <option value="$PROJECT_DIR$/components/Header/Header.js" />
-        <option value="$PROJECT_DIR$/components/Navigation/Navigation.js" />
         <option value="$PROJECT_DIR$/components/SignOut/index.js" />
         <option value="$PROJECT_DIR$/components/Page/Page.js" />
         <option value="$PROJECT_DIR$/pages/admin.js" />
         <option value="$PROJECT_DIR$/pages/index.js" />
-        <option value="$PROJECT_DIR$/now.json" />
-        <option value="$PROJECT_DIR$/next.config.js" />
         <option value="$PROJECT_DIR$/pages/_app.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/.nowignore" />
+        <option value="$PROJECT_DIR$/next.config.js" />
+        <option value="$PROJECT_DIR$/now.json" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/components/Navigation/Navigation.js" />
         <option value="$PROJECT_DIR$/components/Firebase/firebase.js" />
       </list>
     </option>
@@ -14185,6 +14173,9 @@
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -14213,6 +14204,12 @@
             <path>
               <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name=".next" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -14220,6 +14217,24 @@
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="Firebase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Navigation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="SignOut" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="SignUp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
@@ -14251,6 +14266,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/.nvm/versions/node/v10.15.1/lib/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -14286,12 +14302,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551187853739</updated>
-      <workItem from="1551187855858" duration="28848000" />
+      <workItem from="1551187855858" duration="34782000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28848000" />
+    <option name="totallyTimeSpent" value="34782000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
@@ -14301,6 +14317,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="GitHub Reviews" />
@@ -14348,13 +14365,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/Session/context.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/resetpassword.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -14366,27 +14376,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/Session/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/account.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/Session/withAuthorization.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -14404,31 +14393,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/Navigation/Navigation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="46" column="15" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/SignOut/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/Page/Page.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/SignUp/SignUpForm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-96">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -14442,13 +14410,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/Session/withAuthentication.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/constants/theme.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -14456,29 +14417,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/admin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/constants/roles.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/signup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/_document.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -14501,43 +14441,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.nowignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/now.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/Firebase/context.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/Firebase/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-426">
-          <caret line="950" column="14" selection-start-line="950" selection-start-column="6" selection-end-line="950" selection-end-column="14" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/@firebase/database/package.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -14553,24 +14458,160 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/.nowignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/next.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/now.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.next/server/static/development/pages/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Firebase/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Firebase/context.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/firebase/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-109278" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="950" column="14" selection-start-line="950" selection-start-column="6" selection-end-line="950" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.next/records.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.next/build-manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Session/withAuthorization.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Session/withAuthentication.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Session/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Session/context.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/SignOut/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.next/serverless/pages/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="83" column="153" selection-start-line="83" selection-start-column="153" selection-end-line="83" selection-end-column="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.next/react-loadable-manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/account.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/signup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/SignUp/SignUpForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Navigation/Navigation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="65" column="23" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/Firebase/firebase.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        <state relative-caret-position="585">
+          <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
         </state>
       </provider>
     </entry>

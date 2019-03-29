@@ -61,6 +61,11 @@ const NavigationNonAuth = () => (
         <a>Login</a>
       </Link>
     </li>
+    <li>
+      <Link href={"/signup"}>
+        <a>Register</a>
+      </Link>
+    </li>
   </ul>
 );
 
