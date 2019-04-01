@@ -6,12 +6,14 @@ import Meta from "../Meta/Meta";
 import withAuthentication from "../Session/withAuthentication";
 
 const StyledPage = styled.div`
-  height: 100vh;
+  min-height: 100vh;
   background: ${props => props.theme.black};
   color: ${props => props.theme.offWhite};
 `;
 
 const Inner = styled.div`
+  background-color: ${props => props.theme.offWhite};
+  color: ${props => props.theme.black};
   max-width: ${props => props.theme.maxWidth};
   margin: 0 auto;
   padding: 2rem;
